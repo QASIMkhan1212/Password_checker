@@ -1,2 +1,2 @@
 # Password_checker
-This is a Password_checker Pyhon application
+This is a Password_checker Python application
